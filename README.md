@@ -65,7 +65,7 @@ Uses Accompanist’s permissions API to request and handle location permissions 
 4. Run the app on an Android device or emulator.
 
 ```bash
-git clone https://github.com/your-username/whereabouts.git
+https://github.com/Mahith0534/Whereabouts.git
 ```
 
 ## License
@@ -73,6 +73,3 @@ git clone https://github.com/your-username/whereabouts.git
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Made with ❤️ using Kotlin and Jetpack Compose.
-
